@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=100&lines=Greetings+and+Salutations)](https://git.io/typing-svg)
+
 <h1 align="center">Bonjour! 👋, I'm Vishwas</h1>
 <h3 align="center">I am Vishwa, a passionate and keen learner, having multidimensional and adaptable attire. Currently, developing Machine Learning models using Python.</h3>
 
