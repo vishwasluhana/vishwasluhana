@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=100&lines=Greetings+and+Salutations!;Welcome+to+my+profile!;Eat+Sleep+Code+Repeat">
 </p>
   
-<h1 align="center">Bonjour! 👋, I'm Vishwas</h1>
-<h3 align="center">I am Vishwa, a passionate and keen learner, having multidimensional and adaptable attire. Currently, developing Machine Learning models using Python.</h3>
+<h1 align="center">Bonjour! 👋, I'm Vishwa</h1>
+<h3 align="center">A passionate and keen learner, having multidimensional and adaptable attire. Currently, developing Machine Learning models using Python.</h3>
 
 <p align="left"> <a href="https://twitter.com/vixvos" target="blank"><img src="https://img.shields.io/twitter/follow/vixvos?logo=twitter&style=for-the-badge" alt="vixvos" /></a> </p>
 
