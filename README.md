@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=100&lines=Greetings+and+Salutations!;Welcome+to+my+profile!;Eat+Sleep+Code+Repeat">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=100&lines=Greetings+and+Salutations!+👋;Welcome+to+my+profile!+🙌;Eat+Sleep+Code+Repeat+💻">
 </p>
   
 <h1 align="center">Bonjour! 👋, I'm Vishwa</h1>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vishwasluhana@gmail.com**
 
-- ⚡ Fun fact **I think I am quick learner lol.**
+- ⚡ Fun fact **I think I am a quick learner lol.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
