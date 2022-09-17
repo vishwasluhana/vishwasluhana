@@ -33,10 +33,10 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="icons/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons/google_cloud.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git-scm.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons/google_cloud.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
 ![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwasluhana&theme=github_dark&show_icons=true)
