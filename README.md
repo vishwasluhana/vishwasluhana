@@ -3,7 +3,7 @@
 </p>
   
 <h1 align="center">Bonjour! 👋, I'm Vishwa</h1>
-<h3 align="center">A passionate and keen learner, having multidimensional and adaptable attire. Currently, developing Machine Learning models using Python.</h3>
+<h3 align="center"><I am Vishwa, a highly motivated and keen learner, having multidimensional and versatile attire. Currently, developing Desktop/Web applications and Machine Learning models using Python/h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
