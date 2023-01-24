@@ -3,7 +3,7 @@
 </p>
   
 <h1 align="center">Bonjour! 👋, I'm Vishwa</h1>
-<h3 align="center">I am Vishwa, a highly motivated and keen learner, having multidimensional and versatile attire. Currently, developing Desktop/Web applications and Machine Learning models using Python</h3>
+<h3 align="center">I am a Computer Systems Engineer, a highly motivated and keen learner, having multidimensional and versatile attire. Currently, developing Desktop and Web applications using Python and its frameworks.</h3>
 
 - 🌱 I’m currently working on Python Web Frameworks (**Django and FastAPI**)
 
