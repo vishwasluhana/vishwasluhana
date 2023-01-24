@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=100&lines=Greetings+and+Salutations!+👋;Welcome+to+my+profile!+🙌;Eat+Sleep+Code+Repeat+💻">
 </p>
   
-<h1 align="center">Bonjour!, I'm Vishwa</h1>
+<h1 align="center">Bonjour! 👋, I'm Vishwa</h1>
 <h3 align="center">I am a Computer Systems Engineer, a highly motivated and keen learner, having multidimensional and versatile attire. Currently, developing Desktop and Web applications using Python and its frameworks.</h3>
 
 - 🌱 I’m currently working on Python Web Frameworks (**Django and FastAPI**)
