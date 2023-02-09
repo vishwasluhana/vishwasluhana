@@ -1,4 +1,6 @@
-![](https://github.com/vishwasluhana/vishwasluhana/blob/main/gifs/terminal.gif)
+<p align="center">
+  <img src="gifs/terminal.gif" alt="terminal.gif" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=100&lines=Greetings+and+Salutations!+👋;Welcome+to+my+profile!+🙌;Eat+Sleep+Code+Repeat+💻">
 </p>
