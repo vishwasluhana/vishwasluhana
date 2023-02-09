@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="gifs/terminal.gif" alt="terminal.gif" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=100&lines=Greetings+and+Salutations!+👋;Welcome+to+my+profile!+🙌;Eat+Sleep+Code+Repeat+💻">
 </p>
   
@@ -12,7 +9,11 @@
 
 - 📝 I write articles on [https://dev.to/vishwasluhana](https://dev.to/vishwasluhana)
 
-- 📫 How to reach me **vishwasluhana@gmail.com**
+- 📫 Reach me at **vishwasluhana@gmail.com**
+
+<p align="center">
+  <img src="gifs/terminal.gif" alt="terminal.gif" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,14 +33,17 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="icons/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="icons/drf.png" alt="django-rest-framework" width="60" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="icons/fastapi.svg" alt="fastAPI" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons/js.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="icons/pandas.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="icons/scikit_learn.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="icons/sqlite.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git-scm.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="icons/docker.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="icons/google_cloud.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/vscode.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
